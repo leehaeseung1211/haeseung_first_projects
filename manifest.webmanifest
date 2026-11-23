@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "함께체육 — 나만의 운동 친구",
+  "short_name": "함께체육",
+  "description": "나만의 속도로 운동을 즐겨요",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7ed",
+  "theme_color": "#f4f7ed",
+  "icons": [
+    {"src":"./assets/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"./assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"./assets/icon-maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}

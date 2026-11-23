@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="85" fill="#297f53"/>
+<circle cx="256" cy="256" r="172" fill="#dfefcc"/>
+<path d="M110 337Q256 263 402 337V360H110Z" fill="#96bf82"/>
+<circle cx="254" cy="217" r="81" fill="#f2b652" stroke="#c58739" stroke-width="7"/>
+<circle cx="188" cy="151" r="28" fill="#f2b652" stroke="#c58739" stroke-width="6"/>
+<circle cx="320" cy="151" r="28" fill="#f2b652" stroke="#c58739" stroke-width="6"/>
+<circle cx="226" cy="208" r="10" fill="#283d31"/><circle cx="284" cy="208" r="10" fill="#283d31"/>
+<ellipse cx="255" cy="240" rx="30" ry="22" fill="#fff0c6"/><path d="M243 239Q255 249 267 239" fill="none" stroke="#774e31" stroke-width="6" stroke-linecap="round"/>
+<path d="M177 326Q182 280 225 269L255 286 285 269Q328 280 335 326Z" fill="#69b5a3" stroke="#367c65" stroke-width="5"/>
+<circle cx="340" cy="318" r="39" fill="#f1923c" stroke="#b86e29" stroke-width="5"/>
+<path d="M302 318H378M340 279V357M312 293Q340 318 368 343M312 343Q340 318 368 293" stroke="#9d5f34" stroke-width="4" fill="none"/>
+</svg>
