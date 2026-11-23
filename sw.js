@@ -1,4 +1,4 @@
-const CACHE='hamkke-v1.12.1';
+const CACHE='hamkke-v1.12.2';
 const FILES=['./','./index.html','./style.css','./app.js','./catalog.js','./gym.js','./manifest.webmanifest','./assets/Korean.woff','./assets/icon-192.png','./assets/icon-512.png','./assets/icon-maskable.png','./assets/bear-hero.webp','./assets/human-hero.webp',...Array.from({length:6},(_,i)=>'./assets/human-'+i+'.webp'),...Array.from({length:6},(_,i)=>'./assets/animal-'+i+'.webp')];
 FILES.push(...['human','animal'].flatMap(kind=>Array.from({length:6},(_,i)=>`./assets/${kind}-${i}-full.webp`)));
 FILES.push('./style.css?v=1.12.1','./app.js?v=1.12.1','./gym.js?v=1.11','./coach.js?v=1.12.1','./coach.js');
